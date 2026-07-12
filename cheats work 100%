@@ -3461,6 +3461,6 @@
         img.onerror = img.onabort = null;
         cheat();
         let iframe = document.querySelector("iframe");
-        iframe.contentWindow.alert("It seems the GitHub is either blocked the kanker thing or down.\n\nIf it's NOT blocked, join the Discord server for kkr daggoe nee grapje  updates\nhttps://discord.gg/jHjGrrdXP6\n(The kkr goeie cheat will still run after this alert)")
+        iframe.contentWindow.alert("je laad nu noud zijn kika kanker goeie cheats.\n\n veel plezier en ik zeg altijd zo kika kanker is beter dan gwn kanker haha grapig toch? en niet zeggen tegen de mentor hihi)")
     }
 })();
