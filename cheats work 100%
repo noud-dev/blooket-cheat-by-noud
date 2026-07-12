@@ -59,7 +59,7 @@
             return element;
         }
         let settings,
-            settingsKey = "05konzWasHere";
+            settingsKey = "noudWasHere";
         const Settings = {
             data: null,
             setItem(k, v) {
@@ -229,7 +229,7 @@
                         fontWeight: "700",
                         userSelect: "text",
                     },
-                    innerHTML: "GitHub - 05Konzz",
+                    innerHTML: "GitHub - noud-dev",
                     onclick: () => window.open("https://github.com/Blooket-Council/Blooket-Cheats", "_blank").focus(),
                 }),
                 (controlButtons = createElement(
@@ -1393,7 +1393,7 @@
                     },
                 },
                 {
-                    name: "Set Crypto",
+                    name: "Set Crypto noud's favorite",
                     description: "Sets crypto",
                     inputs: [
                         {
@@ -1429,7 +1429,7 @@
                     },
                 },
                 {
-                    name: "Steal Player's Crypto",
+                    name: "Steal Player's Crypto noud's favorite",
                     description: "Steals all of someone's crypto",
                     inputs: [
                         {
